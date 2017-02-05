@@ -1,3 +1,4 @@
+![Language](https://img.shields.io/badge/language-node.js-yellow.svg)
 # BB-8 Discord Bot
 This is my repository for my discord bot. Please keep in mind that not everthing has been added yet. And they will be added here. So dw ;)
 
