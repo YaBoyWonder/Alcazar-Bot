@@ -1,5 +1,7 @@
 ![Language](https://img.shields.io/badge/language-node.js-yellow.svg)
 # BB-8 Discord Bot
+
+[![Greenkeeper badge](https://badges.greenkeeper.io/YaBoyWonder/BB-8-Bot.svg)](https://greenkeeper.io/)
 This is my repository for my discord bot. Please keep in mind that everthing has **not** been added yet. And they will be added here. So dw ;)
 
 
